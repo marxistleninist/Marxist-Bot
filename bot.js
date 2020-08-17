@@ -22,7 +22,7 @@ const exampleEmbed = {
 	author: {
 		name: 'Help',
 		icon_url: 'https://i.imgur.com/hNIVvJ3.jpg',
-		url: 'https://marxistleninist.github.io',
+		url: 'https://github.com/marxistleninist/Marxist-Bot',
 	},
 	description: 'This bot will help you learn Communist Theory and Communist History in a fun way.',
 	thumbnail: {
