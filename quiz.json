@@ -2,11 +2,68 @@
 	{
 		"question": "Where was the first Communist Party of India formed?",
 		"options": ["Meerut","Tashkent","Moscow","Kanpur"],
-		"answer": "b"
+		"answer": "b",
+		"category": "CPI History"
 	},
 	{
 		"question": "*this* conspiracy case gave boost to communist movement in India?",
 		"options": ["Bombay","Nagpur","Meerut","Kanpur"],
-		"answer": "c"
+		"answer": "c",
+		"category": "CPI History"
+	},
+	{
+		"question": "When did the first workers' international take place?",
+		"options": ["28 Sept 1864","25 Mar 1866","24 Apr 1885","22 Feb 1883"],
+		"answer": "a",
+		"category": "Marx and Engels"
+	},
+{
+		"question": "In which worker's international did the split between anarchists and Marxists happen?",
+		"options": ["Pragur conference","Hague Conference","Yalta Conference","Berlin Conference"],
+		"answer": "b",
+		"category": "Marx and Engels"
+	},
+	{
+		"question": "What was the name of the first book Engels wrote?",
+		"options": ["Anti Duhring","The origin of family, private property and the state","Dialectics of nature","The condition of the working class in England"],
+		"answer": "d",
+		"category": "Marx and Engels"
+	},
+{
+		"question": "On which date was the Paris commune established?",
+		"options": ["18 Mar 1871","17 Oct 1873","15 Nov 1871","19 Aug 1875"],
+		"answer": "a",
+		"category": "Marx and Engels"
+	},
+{
+		"question": "When did the Paris commune end?",
+		"options": ["15 Dec 1875","7 May 1871","12 Jan 1872","11 Jun 1873"],
+		"answer": "b",
+		"category": "Marx and Engels"
+	},
+
+{
+		"question": "For which newspaper did Marx write?",
+		"options": ["Rheinische Zeitung","Allegemeine Zeitung","Die Germantauner Zeitung","Die Philadelphische Zeitung"],
+		"answer": "a",
+		"category": "Marx and Engels"
+	},
+{
+		"question": "Where was the Communist Manifesto first published?",
+		"options": ["Berlin","London","Moscow","Brussels"],
+		"answer": "b",
+		"category": "Marx and Engels"
+	},
+{
+		"question": "Where is Karl Marx's grave situated?",
+		"options": ["Highgate cemetery","Brompton cemetery","Nunhead cemetery","Barnes cemetery"],
+		"answer": "a",
+		"category": "Marx and Engels"
+	},	
+{
+		"question": "What did Marx study in college?",
+		"options": ["Medicine and philosophy","Philosophy and theology","Sociology and theology","Law and philosophy"],
+		"answer": "d",
+		"category": "Marx and Engels"
 	}
 ]
