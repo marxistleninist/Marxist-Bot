@@ -1,0 +1,87 @@
+[
+	{
+		"statement": "Abortion is a woman's right.",
+		"answer": "t"
+
+	},
+
+	{
+		"statement": "Capitalism is inherently an evil, corrupt, and flawed system.",
+		"answer": "t"
+	},
+	
+	{
+		"statement": "Socialism is exclusive to workers struggle, not racial and other types of equality?",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Fascism is exlusively used as a bourgeois tactic.",
+		"answer": "t"
+	},
+
+	{
+		"statement": "Labor unions already provide the needed amount of power workers need to have.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "A strong military is important to maintain after a socialist revolution",
+		"answer": "t"
+	},
+
+	{
+		"statement": "Democratic transition away from capitalism is an impossible dream, revolution is the only way.",
+		"answer": "t"
+	},
+	
+	{
+		"statement": "Multi-party elections are always needed to steer country away from tyranny.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Marxist theory of value holds that any human labour creates value.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "For Marx *value* and *price* are the same thing.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Marxist 'Theory of Value' is the same as his predecessor David Ricardo.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Marx didnt believe the forces of supply and demand were relevant to explaining value.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Marx's 'Theory of Value' is a theory of what workers should get paid.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Marxist 'Theory of Value' was a theory about how communist society should be run.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Marx did not think consumer demand played a role in prices, value or other economic pheonomenon.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Marxist 'Theory of Value' doesnt work in free markets.",
+		"answer": "f"
+	},
+
+	{
+		"statement": "Marxist 'Theory of Value' can't explain why useless things like mud pies don't have value.",
+		"answer": "f"
+	}
+]
